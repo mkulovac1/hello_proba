@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Zdravo raja");
         System.out.println("Sta se radi?");
+        System.out.println("Kako ste?");
     }
 }
